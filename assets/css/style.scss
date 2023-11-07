@@ -6,10 +6,6 @@ $section-headings-color: #405DE6 !default;
 
 @import "{{ site.theme }}";
 
-.header {
-  padding: 0.5rem 4rem 3rem
-}
-
 .profileWrapper {
   margin-top: 2rem;
   display: flex;
@@ -39,9 +35,25 @@ img {
 th {
   padding: 0 !important;
   line-height: 0;
+
+  h3 {
+    margin-top: 1.5rem;
+  }
+
+  p {
+    line-height: 0.4;
+  }
 }
 
 td { 
   padding: 0 !important;
   line-height: 0;
+
+  h3 {
+    margin-top: 1.5rem;
+  }
+
+  p {
+    line-height: 0.4;
+  }
 }
