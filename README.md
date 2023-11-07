@@ -13,5 +13,12 @@
 
 |   ![](images/1.jpg)            | ![](images/4.jpg)  |
 :-------------------------:|:-------------------------:
-![](images/2.jpg)  |  ![](images/5.jpg)
+**Full moon**               | **Sunset**
+*Bathing in the ethereal glow of the full moon in the tranquil mountains. 🌕 #MoonlitNights*            | *Chasing the sun as it paints the sky in hues of gold over the endless fields. 🌅 #SunsetMagic*
+![](images/2.jpg)   |  ![](images/5.jpg)
+**Old tree**               | **Leafs**
+*Beneath the wise branches of an ancient tree, where secrets whisper through the leaves. 🌳 #TimelessWisdom*            | *Glistening leaves kissed by crystal-clear waters, a symphony of nature's beauty. 🍃💧 #NatureHarmony*
 ![](images/3.jpg)  |  ![](images/6.jpg)
+**Beach Sunset**               | **Waterfall**
+*Sinking beneath the horizon, the sun sets the beach ablaze in a fiery embrace. 🌅🏖️ #BeachSunsets*            | *Lost in the thundering roar of a majestic waterfall, where nature's power takes your breath away. 🌊 #WaterfallWonders*
+
