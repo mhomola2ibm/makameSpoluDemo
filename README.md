@@ -1,5 +1,8 @@
 # Profile Info
 
+![](images/petra-profile-pic.jpg) 
+
+
 **Name**:  Petra Florkova 
 
 **School**: TUKE Fakulta elektrotechniky a informatiky
