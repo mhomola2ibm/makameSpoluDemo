@@ -13,6 +13,8 @@
 
 **Hobbies**: Photography
 
+**Colleague**: [Martin Homola](mato.md)
+
 | ![Full moon](images/1.jpg) | ![Sunset](images/4.jpg) |
 | :------------------------: | :----------------------: |
 | **Full moon**              | **Sunset**               |
