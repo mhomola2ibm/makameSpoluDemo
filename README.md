@@ -1,3 +1,7 @@
+# QR Code
+![](images/namakany-instagram-qr.png)
+
+
 # Profile Info
 
 ![](images/petra-profile-pic.jpg) 
